@@ -1,16 +1,46 @@
-## Hi there 👋
+# 好用的翻墙机场推荐
+### 汇总了一下各个机场的套餐对比，请参考：
+| 名称 | 免费/试用套餐 | 包月套餐 | 包季度套餐 | 包年套餐 | 包流量套餐 | 优惠码 |
+| :----- | :----- | :----- | :----- | :----- | :----- | :-----|
+| [小飞侠SSR](https://www.xfxssr.me/) | 每日更新免费节点 | 15元150G | 25元150G | 85元100G | 60元300G | 6折优惠券xfxssr1 |
+| [Airfree](https://airfree.space/auth/register) | 1元3天20G | 8元80G-12元200G | 36元660G | 140元3000G-256元6660G | 暂无 | 85OFF91b22a25 |
+| [v速云](https://www.xfxssr.me/) | 暂无 | 9元150G | 25元150G | 85元150G | 60元300G | 无 |
+| [皮卡丘VPN](https://pkqjiasu.com/)                  | 暂无             | 9元150G-18元300G | 25元150G-52元300G | 30元150G-85元300G | 60元300G-80元500G | 无 |
+| [一元机场](https://xn--4gq62f52gdss.com/#/register) | 暂无 | 4元4000G-6元8000G | 无 | 11元100G,39元4000G-59元8000G | 无 | 无 |
 
-<!--
-**freessshare/freessshare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 优先推荐：
+### 小飞侠SSR(超高性价比，新用户立享6折优惠券)：
+［https://www.xfxssr.me/］
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 除此以外还有其他的平台大家都可以试试：
+
+#### 魔界(可以根据流量购买)
+https://www.mojie.me/#/register
+#### 飞鸟云(可先免费订阅，之后也可以按流量购买)
+https://feiniaoyun.xyz/#/register
+#### 冲浪猫（月付9块9，包流量55元384G，618限时8折优惠券msclm618）：
+https://uuclm.net/#/register
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+搜tg [https://soutg.com](https://soutg.com/) 提供🔍中文搜索🔍资源直达
+
+在telegram中搜索 机器人 @baidusou_bot
+
+帮你找到telegram上有趣的群组、频道、视频、音乐、电影、新闻,
+
+如需加入机器人索引请在频道中添加机器人 @baidusou_sp01_bot ，并赋予读取信息权限
+
+- 免费节点分享 
+- 域名: ['https://smxfx.com'] 
+- 标题:2024年12月26日,免费V2Ray节点大放送！4个订阅地址 + 10个高速免费节点,支持Clash、V2rayN等主流软件,秒速连接高速服务器终身免费VPN服务，解锁科学上网新体验，轻松获取高质量代理，免费上网梯子，稳定快速！v2ray，clash机场，科学上网翻墙白嫖节点，免费梯子，白嫖梯子，免费代理，永久免费代理  |  山猫想分享 
+- 内容: 
+  http://subssr.xfxvpn.me/api/v1/client/subscribe?token=62ad1feea2594e83ddfd583347edea91
+  http://subssr.xfxvpn.me/api/v1/client/subscribe?token=09c2665836816c49f4070232ea14b65a
+  http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3123695a7964613e91eb411a6d88d43b
+  http://subssr.xfxvpn.me/api/v1/client/subscribe?token=925225726fc862177e8612ffd9d951d4 
+- 更新时间: 2024年12月26日15点39分 
+  结束
