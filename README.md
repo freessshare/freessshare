@@ -38,9 +38,9 @@ https://uuclm.net/#/register
 - 域名: ['https://hbxfx.xyz'] 
 - 标题:2025年1月2号！共享免费的V2Ray节点，4个订阅地址，10个免费的高速节点，支持流行的Clash、V2rayN，秒速接入，终生免费 VPN，开启全新的网络体验，更容易获得优质的代理，免费梯子，更快更稳！Shadowsocks，Trojan机场，科技互联网爬墙，免费梯子，免费代理商，永久免费代理商  |  海豹想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=186c9c66af0a09cd4de5a9d34df3199a
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=fb45d2ac23794b4f1c3f7198c7c2c779
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6c80ea3334ff0370faa06d9af00cb1dc
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=02edcf99ded598cee5e883194e28d59a 
-- 更新时间: 2025年01月03日00点41分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=186c9c66af0a09cd4de5a9d34df3199a
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=02edcf99ded598cee5e883194e28d59a
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6c80ea3334ff0370faa06d9af00cb1dc 
+- 更新时间: 2025年01月03日00点56分 
 结束
