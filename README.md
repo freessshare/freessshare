@@ -39,8 +39,8 @@ https://uuclm.net/#/register
 - 标题:2025年1月5号！共享免费的V2Ray节点，4个订阅地址，10个免费的高速节点，支持流行的Clash、V2rayN，秒速接入，终生免费 VPN，开启全新的网络体验，更容易获得优质的代理，免费梯子，更快更稳！Shadowsocks，Trojan机场，科技互联网爬墙，免费梯子，免费代理商，永久免费代理商  |  海豹想分享 
 - 内容: 
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3f8a160f04032dcdf3398506c60a4371
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7f169645aa92c1820e3fd6e5ead23de9
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=75c82443b8d6b035d9c4a23fa1eab680
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=13ee2d58ffdf9847cffb229787046a27 
-- 更新时间: 2025年01月06日14点57分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=13ee2d58ffdf9847cffb229787046a27
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7f169645aa92c1820e3fd6e5ead23de9 
+- 更新时间: 2025年01月06日15点28分 
 结束
