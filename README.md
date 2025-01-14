@@ -36,11 +36,8 @@ https://uuclm.net/#/register
 
 - 免费节点分享 
 - 域名: ['https://hbxfx.xyz'] 
-- 标题:2025年1月14号！共享免费的V2Ray节点，4个订阅地址，10个免费的高速节点，支持流行的Clash、V2rayN，秒速接入，终生免费 VPN，开启全新的网络体验，更容易获得优质的代理，免费梯子，更快更稳！Shadowsocks，Trojan机场，科技互联网爬墙，免费梯子，免费代理商，永久免费代理商  |  海豹想分享 
+- 标题:平民云 免费机场 （0 元购买“平民轻量套餐”150GB️/30 天套餐）  |  海豹想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=5ea69c9b4529d960d5d9da217bf3d4cd
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=cf7846fd8c0c5d53f995dec6aa400546
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=983c36c2ba54ff91dd619f05d0b16755
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=50f009536bcdd37e1564526ef8afa491 
-- 更新时间: 2025年01月14日14点56分 
+ 
+- 更新时间: 2025年01月14日15点25分 
 结束
