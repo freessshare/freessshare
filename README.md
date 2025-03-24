@@ -38,15 +38,15 @@ https://uuclm.net/#/register
 - 域名: ['https://hbxfx.xyz'] 
 - 标题:2025年3月24号！共享免费的V2Ray节点，10个订阅地址，20个免费的高速节点，支持流行的Clash、V2rayN，秒速接入，终生免费 VPN，开启全新的网络体验，更容易获得优质的代理，免费梯子，更快更稳！Shadowsocks，Trojan机场，科技互联网爬墙，免费梯子，免费代理商，永久免费代理商  |  海豹想分享 
 - 内容: 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7d46a0f585900b8e41f170f75a294cd6
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d4ed1bca1efdbc2fdeec6c7ec5aa3e2c
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=83feabaf758e08d49fe8bfd7a928bd80
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=144bf73866bc3915811ba8bf1231aa57
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=41a919d5105b4318d792b03fcee3d2dd
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=a8e563d729b3e5ade896496d81f8a3a0
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6816d26105d4b43ebecfb4e7d23ab4dd
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=ddd1bbce657915b29aeb730b074e530a
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3dd4488d97fbdd0a300db7ae3648d575
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7d46a0f585900b8e41f170f75a294cd6
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=41a919d5105b4318d792b03fcee3d2dd
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6816d26105d4b43ebecfb4e7d23ab4dd
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=165521cbe492e0f82c3ee4db0167c8f7
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d4ed1bca1efdbc2fdeec6c7ec5aa3e2c 
-- 更新时间: 2025年03月25日06点56分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=a8e563d729b3e5ade896496d81f8a3a0
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3dd4488d97fbdd0a300db7ae3648d575 
+- 更新时间: 2025年03月25日07点21分 
 结束
